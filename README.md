@@ -1,7 +1,7 @@
 # Awesome Open Problems for Machine Learning
 Call for research to speed up science: 
 - If you are a researcher or practitioner in ML who wants to do side project with meaningful impact and potential breakthrough in science: welcome.
-- If you are a researcher or practitioner in any field of science who wants to see how ML may speed up the progress in your field: please list open challenging problems, with datasets and preferably with benchmarks.
+- If you are a researcher or practitioner in any field of science who just wants to see how ML may speed up the progress in your field: please list open challenging problems, with datasets and preferably with benchmarks.
 
 ## Table of Content
 - [Protein Folding](#protein-folding)
