@@ -1,7 +1,7 @@
 # Awesome Open Problems for Machine Learning
 Call for research to speed up science: 
-- If you are a researcher or practitioner in ML who wants to do side project with meaningful impact and potential for breakthrough in science: welcome.
-- If you are a researcher or practitioner in any field of science and want to see how ML may speed up the progress in your field: please list open challenging problems, with datasets and preferably with benchmarks.
+- If you are a researcher or practitioner in ML who wants to do side project with meaningful impact and potential breakthrough in science: welcome.
+- If you are a researcher or practitioner in any field of science who wants to see how ML may speed up the progress in your field: please list open challenging problems, with datasets and preferably with benchmarks.
 
 ## Table of Content
 - [Protein Folding](#protein-folding)
@@ -9,7 +9,7 @@ Call for research to speed up science:
 
 <a name="protetin-folding"></a>
 ## Protein Folding
-**Predict the 3-dimensional structure of a protein from its 1-dimensional polypeptide chain.** The folding process happens automatically in nature giving a protein its 3-d structure, which decides the funtions of a protein. Proteins with similar 3-d structure would have similar functions, even if they have different polypeptide chains. This has important applications in designing and engineering proteins for novel functions.
+**Predict the 3-dimensional structure of a protein from its 1-dimensional polypeptide chain.** The folding process happens automatically in nature giving a protein its 3-d structure, which decides the funtions of a protein. Proteins with similar 3-d structures would have similar functions, even if they have different polypeptide chains. This has important applications in designing and engineering proteins for novel functions.
 
 ### Datasets
 - [ProteinNet](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2932-0)
