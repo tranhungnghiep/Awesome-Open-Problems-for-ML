@@ -1,5 +1,7 @@
-# Awesome Open Problems for ML
-Call for research and side project: Open challenging problems, high meaningful impact, ready datasets and benchmarks, potential for machine learning to make breakthrough in science.
+# Awesome Open Problems for Machine Learning
+Call for research to speed up science: 
+- If you are a researcher or practitioner in ML who wants to do side project with meaningful impact and potential for breakthrough in science: welcome.
+- If you are a researcher or practitioner in any field of science and want to see how ML may speed up the progress in your field: please list open challenging problems, with datasets and preferably with benchmarks.
 
 ## Table of Content
 - [Protein Folding](#protein-folding)
