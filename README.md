@@ -1,7 +1,8 @@
 # Awesome Open Problems for Machine Learning
-Call for research to speed up science: 
-- If you are a researcher or practitioner in ML who wants to do side project with meaningful impact and potential breakthrough in science: welcome.
-- If you are a researcher or practitioner in any field of science who wants to see how ML may speed up the progress in your field: please find and list open challenging problems, with datasets and preferably benchmarks.
+
+#### How to contribute:
+- **If you are an ML enthusiast and want a side project with real impact:** You are welcome to choose a problem from below. When you have result to share, please link back here and open an issue to get your result listed.
+- **If you are from another field and want to see how ML can speed up science:** Please list open problems with datasets and benchmarks. You can do this via opening an issue or fork and pull request.
 
 ---
 
